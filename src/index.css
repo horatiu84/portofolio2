@@ -32,6 +32,16 @@ html {
     display: none;
 }
 
+.dark {
+    background: var(--color-bg);
+    color: var(--color-white); 
+}
+
+.light {
+    background: var(--color-light);
+    color: var(--color-bg); 
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
@@ -55,7 +65,6 @@ h1{
 
 section {
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section > h2, section > h5 {
@@ -68,9 +77,9 @@ section > h2 {
     margin-bottom: 3rem;
 }
 
-.text-light {
+/* .text-light {
     color: var(--color-light);
-}
+} */
 
 a {
     color: var(--color-primary);

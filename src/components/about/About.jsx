@@ -38,11 +38,7 @@ const About = () => {
               <small>5 projects</small>
             </article>
           </div>
-          <p>Lorem, ipsum dolor sit amet consectetur 
-            adipisicing elit. Nobis quasi consectetur eum,
-             totam quos cupiditate eligendi, beatae laborum
-              earum veniam in vel. Ullam ducimus eveniet 
-              ratione eligendi cupiditate maxime molestiae.</p>
+          <p>Enthusiastic web developer with a string passion for web technologies</p>
               <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
